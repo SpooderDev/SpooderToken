@@ -1,1 +1,59 @@
+Spooder Token
+
+ 
+ 
+Table of Contents
+Introduction to Spooder Token	2
+Purpose	2
+Tokenomics	2
+Total Supply	2
+Transaction Tax	2
+Past Developments	2
+Staking	2
+Liquidity Pool	2
+Spooder V2 Features	2
+Integrated Staking	2
+Auto-Contributing Liquidity Pool	2
+NFT Platform	3
+Future Developments	3
+Spooder Tycoon	3
+Play-To-Earn Games	3
+About the Developer	3
+Background	3
+Education	3
+Looking Forward	3
+
+ 
+Introduction to Spooder Token
+Purpose
+Spooder Token is an amateur cryptocurrency development project. The intention is to learn certain facets and explore new areas of the crypto development ecosystem. It is unlikely that the Spooder Token project makes significant breakthroughs in smart contract or Web3 development. However, the project has and will continue to receive additional development of the Spooder ecosystem.
+Tokenomics
+Total Supply
+Spooder Token employs a physical resource style supply model as opposed to more traditional token supply control methods. Spooder has a fixed supply, which is completely distributed upon smart contract creation between the initial liquidity supply and a developer controlled wallet used for promotional events such as airdrops and bonus staking rewards.
+Transaction Tax
+All transactions within the Spooder Ecosystem are subject to a 7% transaction tax. This is allocated with 3% going towards marketing, 2% towards the auto-contributing liquidity pool, and 2% for staking rewards.
+Past Developments
+Staking
+The first ecosystem upgrade for Spooder Token was the SILK upgrade. This upgrade enabled staking of the SPOOD token. This staking mechanism was accomplished by interacting with the SILK smart contract, in which it would transfer the specified amount of SPOOD out of your wallet and return an equal amount of SILK tokens. This allowed users to easily keep track of their growing staking balance. The 1% transaction tax allocated to staking rewards was distributed to SPOOD stakers based on their staking amount. Due to the use of separate smart contracts for staking, the minimum SPOOD distribution was 100,000 SPOOD. This is one of the key upgrades in Spooder V2.
+Liquidity Pool
+The second ecosystem upgrade for Spooder Token was the WEB upgrade. This upgrade enabled user-contributed LP farming of the SPOOD token to incentivize holders to increase the liquidity floor. This LP farm mechanism was accomplished by interacting with the WEB smart contract, in which it would transfer the specified amount of SPOOD out of your wallet and return an equal amount of WEB tokens. The 2% transaction tax allocated to staking rewards was distributed to SPOOD stakers based on their staking amount. Due to the use of separate smart contracts for staking, the minimum SPOOD distribution was 200,000 SPOOD. This concept is re-vamped to an automated process in Spooder V2.
+Spooder V2 Features
+Contract Integrated Staking
+
+Auto-Contributing Liquidity Pool
+
+NFT Platform
+
+Future Developments
+Spooder Tycoon
+
+Play-To-Earn Games
+
+About the Developer
+Background
+
+Education
+
+Looking Forward
+
 
